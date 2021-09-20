@@ -6,6 +6,6 @@
     "\\test",
     "\\test\\GradeBook.Tests"
   ],
-  "SelectedNode": "\\src\\GradeBook\\Book.cs",
+  "SelectedNode": "\\test\\GradeBook.Tests\\BookTests.cs",
   "PreviewInSolutionExplorer": false
 }
